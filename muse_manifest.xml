@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aswincj.com" resolutions="1x" timestamp="1506687363460">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aswincj.com" resolutions="1x" timestamp="1506687685633">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="433636987" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="17619269" ref="index"/>
+    <file name="master_a-master.css" crc="3992287017" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4084954287" ref="index"/>
     <file name="index.css" crc="4225328448" ref="index"/>
     <file name="nomq_index.css" crc="4003091800" ref="index"/>
   </folder>
@@ -25,7 +25,7 @@
     <file name="require.js" crc="4234670167" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="1920.jpg" crc="337647305" ref="index">
+    <file name="1920.jpg" crc="92486814" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="behance-logo.png" crc="4046653640" ref="index">
@@ -84,10 +84,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="768.jpg" crc="4252651781" ref="index">
+    <file name="768.jpg" crc="3892784280" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="501422017" seo="true" mt="1506687312072" redirect="true"/>
+  <file name="index.html" crc="4136368892" seo="true" mt="1506687600501" redirect="true"/>
 </manifest>
