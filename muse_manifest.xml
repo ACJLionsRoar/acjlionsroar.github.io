@@ -1,0 +1,40 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aswincj.com" resolutions="1x" timestamp="1506668890460">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="181930988" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4088123319" ref="index"/>
+    <file name="index.css" crc="4231551235" ref="index"/>
+    <file name="nomq_index.css" crc="505730410" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="lato-regular.woff" crc="3921109901"/>
+    <file name="lato-regular.eot" crc="4148058646"/>
+    <file name="lato-black.woff" crc="41162656"/>
+    <file name="lato-black.eot" crc="4270753332"/>
+    <file name="lato-semibold.woff" crc="4170872054"/>
+    <file name="lato-semibold.eot" crc="233407264"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3849126041" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="1920.jpg" crc="402860674" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="700.jpg" crc="3907756602" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2888-11.png" crc="533716528" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4257256093" seo="true" mt="1506668743876" redirect="true"/>
+</manifest>
