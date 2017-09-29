@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aswincj.com" resolutions="1x" timestamp="1506691046618">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aswincj.com" resolutions="1x" timestamp="1506691219827">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="73262372" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="483591827" ref="index"/>
-    <file name="index.css" crc="389843291" ref="index"/>
-    <file name="nomq_index.css" crc="180135330" ref="index"/>
+    <file name="index.css" crc="124043357" ref="index"/>
+    <file name="nomq_index.css" crc="3915377711" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="lato-regular.woff" crc="3921109901"/>
@@ -81,5 +81,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4133365946" seo="true" mt="1506690992185" redirect="true"/>
+  <file name="index.html" crc="4214820817" seo="true" mt="1506691181425" redirect="true"/>
 </manifest>
